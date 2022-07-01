@@ -3,6 +3,9 @@ body {
     background-color: rgb(146, 181, 169);
 }
 
+button {
+    margin: 5px;
+}
 
 div {
     margin: auto;
