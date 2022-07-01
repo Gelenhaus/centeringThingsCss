@@ -3,3 +3,9 @@ div {
     width: 60%;
     text-align: center;
 }
+
+img{
+    margin: auto;
+    text-align: center;
+    width: 40%;
+}
